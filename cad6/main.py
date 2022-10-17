@@ -13,8 +13,8 @@ def read_csv():
 
 def db_conn():
     try:
-        ATLAS_URI = 'mongodb+srv://trilha06:kq2PcXWpnGvBclHc@trilha06.yzp40gg.mongodb.net/?retryWrites=true&w=majority'
-        DB_NAME = 'trilha6'
+        ATLAS_URI = ''
+        DB_NAME = ''
         COL_NAME = 'world-happiness-report'
 
         client = MongoClient(ATLAS_URI)
