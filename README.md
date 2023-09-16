@@ -1,3 +1,3 @@
 # Mackenzie
 
-All studies from Data Science post-graduation degree are stored here.
+All studies from Data Science graduates degree are stored here.
